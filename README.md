@@ -1,2 +1,2 @@
-# bank-sampah
-membuat project bank sampah dengan menggunakan php native dan database mysql
+# sekolah-slb
+ini merupakan project sistem informasi pendataan siswa slb
